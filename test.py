@@ -1,6 +1,4 @@
-def age_modifier(age):
-    new_age = float(age)+ 20
-    return new_age
-
-age = input ("enter your age: " )
-print(age_modifier(age))
+i = 1
+while i != 10:
+    i = i + 2
+    print (i)
